@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//aleksandr232.github.io/add-employees.io/static/css/main.a90fb122.chunk.css",
+    "main.js": "//aleksandr232.github.io/add-employees.io/static/js/main.49cdf915.chunk.js",
+    "main.js.map": "//aleksandr232.github.io/add-employees.io/static/js/main.49cdf915.chunk.js.map",
+    "runtime-main.js": "//aleksandr232.github.io/add-employees.io/static/js/runtime-main.2e8dc660.js",
+    "runtime-main.js.map": "//aleksandr232.github.io/add-employees.io/static/js/runtime-main.2e8dc660.js.map",
+    "static/js/2.f1e6fdd0.chunk.js": "//aleksandr232.github.io/add-employees.io/static/js/2.f1e6fdd0.chunk.js",
+    "static/js/2.f1e6fdd0.chunk.js.map": "//aleksandr232.github.io/add-employees.io/static/js/2.f1e6fdd0.chunk.js.map",
+    "index.html": "//aleksandr232.github.io/add-employees.io/index.html",
+    "static/css/main.a90fb122.chunk.css.map": "//aleksandr232.github.io/add-employees.io/static/css/main.a90fb122.chunk.css.map",
+    "static/js/2.f1e6fdd0.chunk.js.LICENSE.txt": "//aleksandr232.github.io/add-employees.io/static/js/2.f1e6fdd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e8dc660.js",
+    "static/js/2.f1e6fdd0.chunk.js",
+    "static/css/main.a90fb122.chunk.css",
+    "static/js/main.49cdf915.chunk.js"
+  ]
+}
